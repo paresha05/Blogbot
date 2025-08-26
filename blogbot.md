@@ -108,4 +108,4 @@ This workflow automates the process of:
 
 This workflow is a robust, production-ready pipeline for building and maintaining an AI-powered blog knowledge base using n8n, PostgreSQL, Qdrant, and Ollama. It supports both automated and chat-driven interactions, with full error handling and deduplication.
 
-If you need a visual diagram or want a breakdown of specific node logic, let me know!
+For a visual diagram visit - https://github.com/paresha05/Blogbot/blob/main/Workflow%20Screenshot.png
